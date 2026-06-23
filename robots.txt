@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dasdes-jaya-group.vercel.app/sitemap.xml
